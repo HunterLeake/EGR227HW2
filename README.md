@@ -1,2 +1,1 @@
-# EGR227HW2
-EGR227 HW2
+# EGR221-SP19-HW2-Evil-Hangman-Starter
